@@ -6,10 +6,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
+title:            Meghan Jimenez
+tagline:          'Engineer and teacher'
+description:      'Embedded systems engineer and teacher'
+url:              https://meghanjimenez.com
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -18,8 +18,8 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Meghan Jimenez'
+  url:            https://github.com/meghanmakes
 
 paginate:         5
 # paginate_path:    '/page:num'
