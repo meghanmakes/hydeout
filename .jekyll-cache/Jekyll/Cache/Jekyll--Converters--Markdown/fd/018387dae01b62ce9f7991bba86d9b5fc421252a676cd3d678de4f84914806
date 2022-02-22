@@ -1,0 +1,32 @@
+I"–<p>At The Wheeler School I taught an 8th grade technology core class and eventually settled 
+on using Adafruit Circuit Playground Express (CPX) Boards as a basis for the class. I had 
+previously experimented with using Arduinos and other similar boards for this class
+but found that the CPX was a much easier entry point for most students. The CPX can be
+programmed in Circuit Python, which was a great continuation of my 7th grad tech core course, 
+and does not require students to do any wiring but they can still experiment with sensors. This
+made it an ideal board for this class. You can see some of the lessons for this class in this
+video series:</p>
+
+<div class="jekyll-linkpreview-wrapper">
+  <p><a href="https://www.youtube.com/watch?v=JWzuFhRR_x8" target="_blank">https://www.youtube.com/watch?v=JWzuFhRR_x8</a></p>
+  <div class="jekyll-linkpreview-wrapper-inner">
+    <div class="jekyll-linkpreview-content">
+<div class="jekyll-linkpreview-image">
+  <a href="https://www.youtube.com/watch?v=JWzuFhRR_x8" target="_blank">
+    <img src="https://i.ytimg.com/vi/JWzuFhRR_x8/maxresdefault.jpg" />
+  </a>
+</div>
+
+      <div class="jekyll-linkpreview-body">
+        <h2 class="jekyll-linkpreview-title">
+          <a href="https://www.youtube.com/watch?v=JWzuFhRR_x8" target="_blank">CPX Intro Part 1: Introduction to the Board and Lights</a>
+        </h2>
+        <div class="jekyll-linkpreview-description">Overview of the Circuit Playground Express board features and the basics of how to program the LEDs.</div>
+      </div>
+    </div>
+    <div class="jekyll-linkpreview-footer">
+      <a href="//www.youtube.com" target="_blank">www.youtube.com</a>
+    </div>
+  </div>
+</div>
+:ET

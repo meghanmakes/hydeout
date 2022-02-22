@@ -29,6 +29,8 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-linkpreview
 
 # Sidebar link settings
 sidebar_home_link:  true
